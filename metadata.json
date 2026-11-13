@@ -1,0 +1,6 @@
+{
+  "name": "AppForge",
+  "description": "AppForge is a mobile-friendly no-code app and interface builder that helps you create polished apps without writing code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
